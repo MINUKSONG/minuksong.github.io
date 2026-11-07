@@ -2,7 +2,7 @@
 
 # Site Settings
 title: Minuk Song
-url: 'https://minuksong-econ.github.io'
+url: "https://minuksong.github.io"
 
 #change it according to your repository name
 # disabling since we are using a custom domain
