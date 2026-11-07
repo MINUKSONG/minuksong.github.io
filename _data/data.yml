@@ -56,7 +56,7 @@ education:
       details:
 
 publications:
-  title: International Publications
+  title: Publications
   intro:
   papers:
     - title: "Teleworkability and Labor Market Resilience During COVID-19: Gender Differences in South Korea"
@@ -69,16 +69,11 @@ publications:
       authors: with Jihye Park, Chung Choe
       conference: Economics Bulletin, 46(2), 568-577.
 
-    
-
-domestic_publications:
-  title: Domestic Publications
-  intro:
-  papers:
-    - title: "도입을 넘어 활용으로: 국가직무능력표준(NCS)의 기업 활용과 성과"
+      - title: "도입을 넘어 활용으로: 국가직무능력표준(NCS)의 기업 활용과 성과"
       link:
       authors: with 문여경, 김형신, 최충
-      conference: 직업과 자격 연구, 15(3), 1–27, 2026
+      conference: 직업과 자격 연구, 15(3), 1–27, 2026  
+
 
 projects:
   title: Working Papers
